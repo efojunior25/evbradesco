@@ -1,6 +1,6 @@
 # evbradesco
 Projeto simples a partir do curso da Escola Virtual da Fundação Bradesco 
-![image](https://user-images.githubusercontent.com/102126137/194788918-a2d84578-8d2d-4adf-a172-e693dc3893c8.png)
+![image](https://user-images.githubusercontent.com/102126137/194789568-0144a0ad-bdd0-472e-962c-582f82422b81.png)
 
 [Clique aqui para acessar](https://efojunior25.github.io/evbradesco/)
 ## Tecnologias
